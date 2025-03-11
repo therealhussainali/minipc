@@ -5,7 +5,7 @@ from pydantic import BaseModel
 # Database connection settings
 DB_CONFIG = {
     "host": "localhost",
-    "user": "root",
+    "user": "hussain",
     "password": "1223",
     "database": "user_auth",
     "cursorclass": pymysql.cursors.DictCursor,  # Returns results as dictionaries
